@@ -1,4 +1,3 @@
-'''r
 # Classification-of-News-Articles-Real-vs.-Fake-
 A machine learning project to detect fake news using various models.
 
@@ -15,4 +14,3 @@ Dataset: [Fake News Detection Dataset - Kaggle](https://www.kaggle.com/datasets/
 
 ## 🔹 Results
 - Best performing model: Finally, The Random Forest model is the most effective classifier for identifying fake news and plagiarism_score is the most important feature in the Random Forest model.
-'''
